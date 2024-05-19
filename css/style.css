@@ -1,0 +1,66 @@
+.firstlogo{
+    width:115px;
+}
+.nav-item{
+    margin:0 20px 0 0;
+    
+}
+.navbar-nav .nav-link.active{
+    color:white;
+}
+.nav-pills .nav-link{
+    border-radius: 0;
+    color:blue;
+}
+.dropdown-menu.show{
+    border-radius:0;
+    border-color: white;
+}
+.nav-link:hover{
+    background:blue;
+    color:white;
+}
+.card{
+    
+    margin:10px 0 10px 0;
+    background-color: #e3e2e2;
+    border-radius: 0;
+
+    
+}
+.card:hover{
+    border:1.5px solid grey;
+    background-color: transparent;
+    color:black;
+}
+.clientsimg{
+    display:inline-flex;
+    
+   
+}
+ul{
+    list-style: none;
+}
+.qlink{
+    margin-left:12%
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.copyright{
+    background:rgb(22, 22, 22);
+    color:white;
+}
+.serv-page-service{
+    background: url(https://webthemez.com/demo/overtake-business-bootstrap-html-website-template/img/slides/1.jpg) #2056aebb;
+    background-size: 400px;
+    background-position: right top;
+    background-repeat: no-repeat;
+}
+.icon-serv{
+    border:2px solid blue;
+    color:blue;
+    width:75px;
+    height:75px;
+}
